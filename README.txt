@@ -1,4 +1,4 @@
-Link to YouTube Video: 
+Link to YouTube Video: https://youtu.be/iLZlORn1HAo
 
 Setup Instructions:
 - In pgAdmin 4 crewate a new database named 3005_Assignment_3
